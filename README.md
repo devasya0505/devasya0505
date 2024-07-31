@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Structures, Database Management System, React, Data Science.**
 
-- 💬 Ask me about **Full Stack Development, Andriod, AI/ML**
+- 💬 Ask me about **Full Stack Development, Andriod, AI/ML.**
 
 - 📫 How to reach me **devasyapatel555@gmail.com**
 
